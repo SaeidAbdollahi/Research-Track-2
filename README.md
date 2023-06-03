@@ -1,6 +1,6 @@
 # Research Track 2-Assignments (1,2,3)
 
-The assignments of Research Course 2 have been solved and their solutions have been compiled in this repository.
+The assignments of Research Track 2 have been solved and their solutions have been compiled in this repository.
 
 ## Assignment 1-Software Documentation
 
